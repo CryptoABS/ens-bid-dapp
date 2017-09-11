@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {entries} from '../../lib/ensService';
-import {SearchResult} from './SearchResult';
+import SearchResult from './SearchResult';
 import './SearchEth.css';
 
 export class SearchEth extends Component {
